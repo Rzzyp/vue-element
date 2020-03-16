@@ -1,6 +1,8 @@
 # vue_shop
 
-vue -element联系实践
+vue -element练习实践
+
+后台模板（粗制）
 
 ## Project setup
 ```
